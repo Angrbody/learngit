@@ -5,3 +5,6 @@ i just delete all two new sentences.
 git has a mutable index called stage.
 git tracks changes of files.
 creating a new branch is quick and simple.
+20210720 branch management strategy.
+11:02: what's the problem?
+
